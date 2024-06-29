@@ -1,2 +1,0 @@
-# rosticsbucket
-"ok" godot game
